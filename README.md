@@ -1,4 +1,4 @@
-## Hello! Eu sou Júlia Pimenta
+## Olá! Eu sou Júlia Pimenta
 
 <div align="center">
   <a href="https://github.com/juliapimenta">
